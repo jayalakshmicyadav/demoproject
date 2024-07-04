@@ -1,2 +1,3 @@
 # demoproject
-My first repository 
+My first repository.
+new beginning for the projects
